@@ -670,3 +670,4 @@ Change for PR 670
 Change for PR 671
 Change for PR 672
 Change for PR 673
+Change for PR 674
